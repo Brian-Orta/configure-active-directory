@@ -38,7 +38,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h3 align="center">Setup Resources in Azure</h3>
 <br />
 <p>
-  Create the Domain Controller VM (Windows Server 2022) named “DC-1”:
+  Create the Domain Controller VM (Windows Server 2023) named “DC-1”:
 </p>
 <p>
   <img src="https://i.imgur.com/gaAzjvb.png" height="75%" width="100%" alt="resource group"/>
