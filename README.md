@@ -103,7 +103,7 @@ This guide outlines the implementation of on-premises Active Directory within Az
   Restart and then log back into DC-1 as user: myadproject.com\labuser:
 </p>
 <p>
-  <img src="https://i.imgur.com/7UakWMQ.png" height="75%" width="100%" alt="fqdn login"/>
+  
 </p>
 <br />
 <br />
@@ -132,7 +132,7 @@ This guide outlines the implementation of on-premises Active Directory within Az
   Log out/close the Remote Desktop connection to DC-1 and log back in as “myadproject.com\jane_admin”. Use jane_admin as your admin account from now on:
 </p>
 <p>
-  <img src="https://i.imgur.com/xWZ4Kol.png" height="75%" width="100%" alt="admin login"/>
+
 </p>
 <br />
 <br />
@@ -211,7 +211,7 @@ This guide outlines the implementation of on-premises Active Directory within Az
 </p>
 <p>
   <img src="https://i.imgur.com/ZZCfiCp.png" height="75%" width="100%" alt="employee user accounts"/>
-  <img src="https://i.imgur.com/7gBpNzN.png" height="75%" width="100%" alt="employee user selection"/>
+  
   <img src="https://i.imgur.com/cqsddjn.png" height="75%" width="100%" alt="employee user login"/>
 </p>
 <br />
